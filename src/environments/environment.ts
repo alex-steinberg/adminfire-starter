@@ -5,12 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: '<your-key>',
-    authDomain: '<your-project-authdomain>',
-    databaseURL: '<your-database-URL>',
-    projectId: '<your-project-id>',
-    storageBucket: '<your-storage-bucket>',
-    messagingSenderId: '<your-messaging-sender-id>'
+    apiKey: 'AIzaSyDV4mXUNXeUpwwJMzwmvgZ4m55YsIv4ZZs',
+    authDomain: 'adminfire-2e243.firebaseapp.com',
+    databaseURL: 'https://adminfire-2e243.firebaseio.com',
+    projectId: 'adminfire-2e243',
+    storageBucket: '',
+    messagingSenderId: '831988198689',
+    appId: '1:831988198689:web:2e18f4e99dc4482e6f6260'
   }
 };
 

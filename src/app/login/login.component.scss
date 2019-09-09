@@ -1,0 +1,11 @@
+.login-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.login-box__holder {
+  display: flex;
+  flex-flow: column nowrap;
+}
